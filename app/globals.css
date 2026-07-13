@@ -89,6 +89,7 @@ main#app {
 .last-care {
   font-size: 14px;
   color: var(--text-muted);
+  margin: 0;
 }
 
 .days-elapsed {
@@ -192,4 +193,10 @@ button.delete-record:hover {
   font-size: 12px;
   color: var(--text-muted);
   margin-top: 8px;
+}
+
+.sync-note {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin: 0 0 24px;
 }

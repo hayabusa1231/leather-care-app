@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+.DS_Store
+*.log
+.env*.local
+.vercel
+next-env.d.ts
+*.tsbuildinfo
+
+# local-only runtime data (production uses Vercel Blob instead)
+/data/care.json
