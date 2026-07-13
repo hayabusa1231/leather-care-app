@@ -1,0 +1,8 @@
+{
+  "name": "革製品ケア記録",
+  "short_name": "革ケア記録",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#5c4033"
+}
